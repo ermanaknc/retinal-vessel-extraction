@@ -1,0 +1,17 @@
+# Datasets (download separately — see README)
+data/
+*.tif
+*.gif
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Models / large artifacts
+*.pkl
+
+# OS
+.DS_Store

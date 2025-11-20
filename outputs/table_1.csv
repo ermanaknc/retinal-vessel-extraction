@@ -1,0 +1,13 @@
+Image,Sensitivity,Specificity,PPV,Accuracy
+Image_37,0.7461,0.9404,0.6455,0.9158
+Image_38,0.7396,0.9570,0.7122,0.9296
+Image_39,0.7382,0.9584,0.7166,0.9310
+Image_40,0.7672,0.9590,0.6984,0.9379
+
+Average,0.7478,0.9537,0.6932,0.9286
+
+AUC,0.9269
+
+--- Target Values (Paper) ---
+Target,0.7830,0.9800,0.8594,0.9531
+Target AUC,0.9752
